@@ -271,8 +271,6 @@ transition: pan-left
 ---
 
 
-<video src="/FinalDemo.mov" controls autoplay loop style="width: 100%; max-height: 60vh; object-fit: contain;"></video>
-
 ---
 transition: pan-left
 layout: center
