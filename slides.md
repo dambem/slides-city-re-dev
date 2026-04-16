@@ -265,7 +265,7 @@ transition: pan-left
 # Stage 2 — Going Wireless
 Building in some more "magic".
 
-<video muted autoplay loop style="width: 100%; max-height: 65vh; object-fit: contain;" src='./CityReDev1_compressed.mp4'></video>
+<video muted autoplay loop style="width: 100%; max-height: 65vh; object-fit: contain;" src='/CityReDev1_compressed.mp4'></video>
 
 ---
 transition: pan-left
