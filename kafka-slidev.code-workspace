@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../vfs-demo"
+		},
+		{
+			"path": "../../../../city-renewal-open-source"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,22 @@
+{
+  "name": "kafka-slidev",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.11.4",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-addon-citations": "^0.0.13",
+    "slidev-addon-qrcode": "^1.0.2",
+    "slidev-theme-geist": "^0.8.1",
+    "vue": "^3.5.27"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.59.1"
+  }
+}
