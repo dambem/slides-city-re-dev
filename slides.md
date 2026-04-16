@@ -265,7 +265,6 @@ transition: pan-left
 # Stage 2 — Going Wireless
 Building in some more "magic".
 
-<video muted autoplay loop style="width: 100%; max-height: 65vh; object-fit: contain;" src='./CityReDev1.mp4'></video>
 
 ---
 transition: pan-left
@@ -426,7 +425,7 @@ transition: pan-left
 
 <div class="card--accent card mb-3 text-sm">
   <div class="font-bold text-accent mb-1">Gemini — concept images</div>
-  <div class="text-xs text-muted">One call returns  a photorealistic render. Keeping it simple by using a "green" screen for building boundaries.</div>
+  <div class="text-xs text-muted">One call returns  a photorealistic render. Keeping it simple by using a "green" screen for building boundaries. </div>
 </div>
 
 ```python {4,8-12}
